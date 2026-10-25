@@ -1,0 +1,17 @@
+# Local scene media and outputs
+/scenes/
+/models/
+/cache/
+/envs/
+
+# Runtime and generated artifacts
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.mp4
+*.mkv
+*.mov
+*.wav
+*.flac
